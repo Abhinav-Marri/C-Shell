@@ -1,12 +1,9 @@
-# Assignment 3 : Building Shell
-
-### Abhinav Marri <br> Roll No. 2021112015
 
 > OS : _`WSL 2`_
 
 ## Project Overview :
 
-- The objective was to build a interactive shell using c language which meets the following command requirements. <br>
+- Built an interactive shell using c language which meets the following command requirements. <br>
 
   1. **pwd**
   2. **echo**

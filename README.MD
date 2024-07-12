@@ -1,5 +1,4 @@
-
-> OS : _`WSL 2`_
+# C - Shell
 
 ## Project Overview :
 
